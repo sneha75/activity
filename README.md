@@ -7,3 +7,5 @@ sum=a+b
 calculate subraction
 diff=a-b
 
+calculate multiplication
+mul=a*b

@@ -17,3 +17,7 @@ mul=a*b
 
 calculate division
 div=a/b
+
+if b=0
+Please enter b
+div=a/b

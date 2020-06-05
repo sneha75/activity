@@ -14,3 +14,6 @@ diff=abs(a-b)
 
 calculate multiplication
 mul=a*b
+
+calculate division
+div=a/b

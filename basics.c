@@ -37,6 +37,6 @@ int main()
     div=a/b;
    }
   }
-  }
+  
     
     

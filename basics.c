@@ -36,6 +36,10 @@ int main()
    {
     div=a/b;
    }
+  printf("%d\n",sum);
+  printf("%d\n",diff);
+  printf("%d\n",mul);
+  printf("%d\n",div);
   }
   
     

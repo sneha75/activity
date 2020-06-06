@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 int main()
 {
   int a,b;
@@ -6,7 +7,7 @@ int main()
   int diff=0;
   int mul=0;
   int div=0;
-  printf("enter two numbers\n);
+  printf("enter two numbers\n");
   scanf("%d %d",&a,&b);
   sum=a+b;
 

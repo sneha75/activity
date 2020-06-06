@@ -9,4 +9,5 @@ int main()
     rev=rev+rem;
     num=num/10;
    }
+   printf("reverse of number=%d\n",rev);
  }

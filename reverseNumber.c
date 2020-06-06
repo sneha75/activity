@@ -2,7 +2,7 @@
 int main()
 {
   int num;
-  printf("enter the number\n)
+  printf("enter the number\n);
   while(n!=0)
   {
     rem=num%10;
